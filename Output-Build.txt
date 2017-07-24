@@ -1,0 +1,23 @@
+1>------ Build started: Project: Engine, Configuration: Debug Win32 ------
+1>Compiling...
+1>Main.cpp
+1>c:\users\alex\documents\visual studio 2008\projects\engine\engine\main.cpp(457) : warning C4700: uninitialized local variable 'gun' used
+1>Linking...
+1>LINK : warning LNK4076: invalid incremental status file 'Debug\Engine.ilk'; linking nonincrementally
+1>SC_Collision.lib(Box.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(CollisionBox.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(CollisionPolygon.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(CollisionResults.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(CollisionSphere.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(CollisionTree.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(dllmain.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(Face.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(hMatrix.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(Object.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(Point.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(TreeFace.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>SC_Collision.lib(Vector.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'C:\Program Files\The Game Creators\SCCollision\lib\VS8\SC_Collision.lib' or at 'c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\vc80.pdb'; linking object as if no debug info
+1>Embedding manifest...
+1>Build log was saved at "file://c:\Users\Alex\Documents\Visual Studio 2008\Projects\Engine\Engine\Debug\BuildLog.htm"
+1>Engine - 0 error(s), 15 warning(s)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
